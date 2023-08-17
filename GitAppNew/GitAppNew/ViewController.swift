@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Task# 3
         // Do any additional setup after loading the view.
         // я третий
+        // задача выполнена
+        
     }
 
 
